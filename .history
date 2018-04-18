@@ -1,0 +1,22 @@
+#+1523902865
+ls
+#+1523902910
+git init
+#+1523903062
+git add .
+#+1523903101
+git commit -m "First commit"
+#+1523903214
+git remote add origin https://github.com/valealej14/Mech-Eng-105.git
+#+1523903314
+git push -u origin master
+#+1523903640
+( gnome-ssh-askpass:23577 ) : Gtk-WARNING **: cannot open display:
+#+1523903640
+error: unable to read askpass response from '/usr/libexec/openssh/gnome-ssh-askps'
+#+1523903640
+Password for 'https://git --help@github.com':
+#+1523903817
+Password for 'https://git --help@github.com':Alejandrav14
+#+1523903834
+git status
